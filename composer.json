@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/softphp",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Khalid",
+      "email": "csewebmail@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
